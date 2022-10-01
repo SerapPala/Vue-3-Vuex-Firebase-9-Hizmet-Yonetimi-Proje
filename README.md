@@ -1,4 +1,4 @@
-# hesap-yonetimi-app
+# hizmet-yonetimi-app
 
 ## Project setup
 ```
