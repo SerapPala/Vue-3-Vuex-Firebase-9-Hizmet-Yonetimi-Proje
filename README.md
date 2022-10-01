@@ -14,9 +14,7 @@
 
 ![github](src/assets/hizmet-listesi.png)
 
-
 ![github](src/assets/hizmet-ekle.png)
-
 
 ![github](src/assets/hizmet-listesi-detaya-yonlendir.png)
 
