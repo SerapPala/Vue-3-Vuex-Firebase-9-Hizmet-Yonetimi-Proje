@@ -2,7 +2,7 @@
     <div class="row ">
         <div class="col s12 m9 offset-m2 center-align">
             <div class="card grey lighten-4">
-                <span class="card-title">Web Yayın Hizmeti Bilgileri</span>
+                <span class="card-title">Hizmet Bilgileri</span>
                 <div class="card-content">
                     <div class="row">
                         <div class="input-field col s6">

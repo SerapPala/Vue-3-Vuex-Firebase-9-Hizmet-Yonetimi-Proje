@@ -2,7 +2,7 @@
     <div class="row ">
         <div class="col s12 m9 offset-m2 center-align">
             <div class="card grey lighten-4">
-                <span class="card-title">Web Yayın Hizmeti Ekle</span>
+                <span class="card-title"> Hizmet Ekle</span>
                 <div class="card-content">
                     <div class="row">
                         <div class="input-field col s6">
@@ -109,7 +109,7 @@ export default {
         }
 
         const handleSubmit = async () => {
-            //console.log(sertifikaNo.value,not.value,ogrAd.value,ogrSoyad.value);
+        
             if (dosya.value) {
                 await dosyaYukle(dosya.value)
                 //console.log('dosya yüklendi',url.value);
