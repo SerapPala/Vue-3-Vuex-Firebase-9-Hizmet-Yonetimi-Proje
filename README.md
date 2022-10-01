@@ -21,8 +21,8 @@
 ![github](src/assets/hizmet-listesi-detaya-yonlendir.png)
 
 ![github](src/assets/hizmet-detay.png)
-<<<<<<< HEAD
-=======
+
+
 
 ## Project setup
 ```
