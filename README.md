@@ -1,8 +1,8 @@
 # hizmet-yonetimi-app
 
-## giris-bilgileri : 
-### e-posta: hizmetyonetimi@gmail.com 
-### sifre: 123456789
+### giris-bilgileri 
+#### e-posta: hizmetyonetimi@gmail.com 
+#### sifre: 123456789
 
 
 ![github](src/assets/hizmet-giris-yap.png)
